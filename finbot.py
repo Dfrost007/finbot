@@ -6,7 +6,7 @@ import requests
 app = Flask(__name__)
 
 # Enter the Page Access Token
-PAT = 'EAADEk32ZBIZCIBAIrX4yZBIxqs7m4A8DxiRpCTsoO4ati4zUNn0TG5qG59hwOoUPqqj8EuMGb9V0agZAdQKdVNhC8KUtpZB3nSf9bgHwheN7XTYNVal6IZBZBWwhCcM4xEw1ng201pfq4aGIfjWzWZCLhkEe32DPHoalrE3UUrcSMwZDZD'
+PAT = ''
 
 
 @app.route('/', methods=['GET'])
